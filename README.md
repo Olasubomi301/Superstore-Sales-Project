@@ -25,7 +25,7 @@ This page provides an overview of business performance through key performance i
 
 This page explores product-level sales and profitability, highlighting high-performing products and products that may require further review.
 
-![Product Analysis Dashboard](product-analysis-dashboard.png)
+![Product Analysis Dashboard](product-analysis.png)
 
 ## Key Performance Indicators
 
